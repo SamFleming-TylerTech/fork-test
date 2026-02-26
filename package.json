@@ -1,0 +1,6 @@
+{
+  "name": "fork-test-action",
+  "version": "1.0.0",
+  "description": "Test action for fork-sync",
+  "main": "index.js"
+}
